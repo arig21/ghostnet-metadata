@@ -1,0 +1,10 @@
+{
+    "name": "GhostNet",
+    "symbol": "GHOST",
+    "description": "GhostNet is a playful and educational meme coin created by a freshman college student exploring blockchain technology. Inspired by their real-life dog, Ghost, because every dog deserves a coin.",
+    "image": "https://sandbox.api.copilot.microsoft.com/files/ghostnet-logo.png",
+    "uri": "https://sandbox.api.copilot.microsoft.com/files/ghostnet-logo.png",
+    "seller_fee_basis_points": 0,
+    "token_standard": "Fungible",
+    "update_authority": "umi.identity"
+}
