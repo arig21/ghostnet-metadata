@@ -1,0 +1,29 @@
+{
+    "name": "GhostNet Collection",
+    "symbol": "GHOST",
+    "description": "A chaotic meme coin on Solana. No roadmap, just vibes.",
+    "image": "collection.png",
+    "external_url": "https://ghostnet.fun",
+    "seller_fee_basis_points": 500,
+    "attributes": [
+        {
+            "trait_type": "Token Mint",
+            "value": "8ZUaFNQVU3G9GULeTMKv4kxTfExveEhpumemfbUwZ4Rk"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "collection.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image"
+    },
+    "creators": [
+        {
+            "address": "EfPB9G6SLDcVVzcyM75CQE9fJeWy2u2QRH7wdvtaUqJL",
+            "share": 100
+        }
+    ]
+}
