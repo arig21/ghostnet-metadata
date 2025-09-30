@@ -1,0 +1,27 @@
+{
+    "name": "GhostNet Dog Echo",
+    "symbol": "GHOST",
+    "description": "Adorable GhostNet meme dog NFT #5",
+    "image": "4.png",
+    "attributes": [
+        {
+            "trait_type": "Token Mint",
+            "value": "8ZUaFNQVU3G9GULeTMKv4kxTfExveEhpumemfbUwZ4Rk"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "4.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "EfPB9G6SLDcVVzcyM75CQE9fJeWy2u2QRH7wdvtaUqJL",
+                "share": 100
+            }
+        ]
+    }
+}
