@@ -1,0 +1,28 @@
+{
+    "name": "GhostNet Dog Bravo",
+    "symbol": "GHOST",
+    "description": "Adorable GhostNet meme dog NFT #2",
+    "image": "1.png",
+    "attributes": [
+        {
+            "trait_type": "Token Mint",
+            "value": "8ZUaFNQVU3G9GULeTMKv4kxTfExveEhpumemfbUwZ4Rk"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "1.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "EFpD9B6G5LDcVVzcyM7SCQ9FJeWy2u2QRH7wdvtalqJL",
+                "share": 100,
+                "verified": false
+            }
+        ]
+    }
+}
